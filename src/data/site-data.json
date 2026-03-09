@@ -1,0 +1,58 @@
+{
+  "business": {
+    "name": "Clinica Veterinaria SanaSana Denia",
+    "tagline": "Salud y Bienestar para tu Mejor Amigo.",
+    "description": "En SanaSana Denia, cuidamos de tus mascotas con amor, experiencia y la más avanzada tecnología. Ofrecemos una atención veterinaria integral para garantizar su bienestar en cada etapa de su vida. Tu tranquilidad es nuestra prioridad, y la salud de tu compañero, nuestra vocación.",
+    "phone": "+34 616 51 88 62",
+    "address": "Av. de Ramón Ortega, 9, 03700 Dénia, Alicante, España",
+    "email": "info@sanasana.es",
+    "rating": 3.9,
+    "reviewCount": 115,
+    "hours": ["Monday: 10:00 AM – 3:00 PM","Tuesday: 10:00 AM – 6:00 PM","Wednesday: 10:00 AM – 3:00 PM","Thursday: 10:00 AM – 6:00 PM","Friday: 10:00 AM – 3:00 PM","Saturday: Closed","Sunday: Closed"]
+  },
+  "theme": {
+    "primary": "#4CAF50",
+    "secondary": "#2E7D32",
+    "accent": "#FFC107",
+    "mode": "dark"
+  },
+  "hero": {
+    "headline": "La Salud de tu Mascota, Nuestra Prioridad en Dénia.",
+    "subheadline": "Tu compañero merece el mejor cuidado. Descubre nuestra atención veterinaria integral con profesionales dedicados y equipos de última generación.",
+    "cta1": { "text": "Pedir Cita Ahora", "href": "#contact" },
+    "cta2": { "text": "Nuestros Servicios", "href": "#services" },
+    "imageUrl": "https://places.googleapis.com/v1/places/ChIJ98Px-JQbnhIRFSBg7pYT5vM/photos/ATCDNfXt-6QU3pu19PEY1Uh28iMsrc-HWoh9JXWaaWOQqn-RhxKlkirjaB4h-4LUMzRNaNayvxk14PuKhgusIAMmBWKaHPBx52p9O4NLHpHqMLc44nQeHFVc-LA39f1mESWrpqFvbboE2GDKj12g59JI7m1UOarJDg6JmuheQ_IzNutm43a4U0bMF6c3gRZ0CysVWu4tG25sZ8pldJYPKcB9dTztzaatxP3vbzJzqY_6N6qh0lJgQym2ctKHjCioJVSEFl7S1m-pUP6YpivfPHP8w-wQuKqCgswutr-D_q1gNzoF0A/media?maxWidthPx=1200&key=AIzaSyAVvBWUrtTMnut45RFBuVKNz61wSg1Ebd8"
+  },
+  "services": [
+    { "icon": "🩺", "title": "Consulta y Diagnóstico", "description": "Ofrecemos revisiones completas y diagnósticos precisos para detectar y tratar cualquier afección a tiempo. La prevención es clave para una vida larga y feliz." },
+    { "icon": "💉", "title": "Prevención y Vacunación", "description": "Protege a tu mascota contra enfermedades con nuestro programa de vacunación y desparasitación personalizado. Mantén su salud al día de forma segura y efectiva." },
+    { "icon": "🏥", "title": "Cirugía y Cuidados Intensivos", "description": "Contamos con quirófano equipado y personal experto para cirugías, así como un área de hospitalización para recuperación y cuidados postoperatorios." },
+    { "icon": "🔬", "title": "Laboratorio y Analíticas", "description": "Nuestro laboratorio propio permite obtener resultados rápidos y fiables para un diagnóstico ágil y un tratamiento eficaz. Cuidamos cada detalle de su salud." }
+  ],
+  "about": {
+    "title": "Tu Clínica Veterinaria de Confianza en Dénia",
+    "text": "En Clínica Veterinaria SanaSana Denia, nuestra pasión son los animales y nuestro compromiso es su bienestar. Con años de experiencia y un equipo de veterinarios altamente cualificados, nos dedicamos a ofrecer la mejor atención médica posible para tus compañeros de vida.\n\nCreemos firmemente en la medicina preventiva y en un trato cercano y empático tanto con las mascotas como con sus dueños. Nuestras instalaciones están diseñadas para proporcionar un ambiente tranquilo y seguro, utilizando tecnología moderna para diagnósticos precisos y tratamientos efectivos.\n\nFormamos parte de la comunidad de Dénia y nos enorgullece ser el apoyo veterinario en el que confías. Visítanos y descubre por qué somos la elección ideal para el cuidado de tu mascota.",
+    "imageUrl": "https://images.unsplash.com/photo-1504813184591-01572f98c85f?w=1200&q=80"
+  },
+  "gallery": [
+    { "url": "https://places.googleapis.com/v1/places/ChIJ98Px-JQbnhIRFSBg7pYT5vM/photos/ATCDNfXt-6QU3pu19PEY1Uh28iMsrc-HWoh9JXWaaWOQqn-RhxKlkirjaB4h-4LUMzRNaNayvxk14PuKhgusIAMmBWKaHPBx52p9O4NLHpHqMLc44nQeHFVc-LA39f1mESWrpqFvbboE2GDKj12g59JI7m1UOarJDg6JmuheQ_IzNutm43a4U0bMF6c3gRZ0CysVWu4tG25sZ8pldJYPKcB9dTztzaatxP3vbzJzqY_6N6qh0lJgQym2ctKHjCioJVSEFl7S1m-pUP6YpivfPHP8w-wQuKqCgswutr-D_q1gNzoF0A/media?maxWidthPx=1200&key=AIzaSyAVvBWUrtTMnut45RFBuVKNz61wSg1Ebd8", "alt": "Interior de la clínica veterinaria SanaSana Denia, luminoso y acogedor." },
+    { "url": "https://images.unsplash.com/photo-1504813184591-01572f98c85f?w=1200&q=80", "alt": "Veterinario realizando una exploración a un perro dócil." },
+    { "url": "https://images.unsplash.com/photo-1666214280391-8ff5bd3c0bf0?w=1200&q=80", "alt": "Veterinaria trabajando en un laboratorio con muestras." },
+    { "url": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=1200&q=80", "alt": "Equipo médico veterinario preparando una sala de operaciones." }
+  ],
+  "testimonials": [
+    { "name": "María García", "stars": 5, "text": "Un equipo maravilloso y muy profesional. Siempre tratan a mi gato con mucho cariño y explican todo con claridad. ¡Totalmente recomendados!" },
+    { "name": "Javier López", "stars": 5, "text": "Llevo años trayendo a mi perro y siempre salgo contento. Son muy atentos y su compromiso con la salud animal es evidente. Excelente servicio." },
+    { "name": "Ana Ruíz", "stars": 4, "text": "Buena clínica con personal amable. A veces hay un poco de espera, pero el cuidado que le dan a mi periquito lo compensa. Se nota que les gusta su trabajo." }
+  ],
+  "contact": {
+    "title": "¿Tu Mascota Necesita Atención? ¡Contáctanos Hoy!",
+    "subtitle": "Estamos aquí para cuidar de quienes más quieres. Llama o escríbenos para pedir cita o resolver cualquier duda.",
+    "whatsappNumber": "+34 616 51 88 62",
+    "showMap": true,
+    "mapQuery": "Clinica Veterinaria SanaSana Denia Av. de Ramón Ortega, 9, 03700 Dénia, Alicante, España"
+  },
+  "footer": {
+    "copyright": "© 2026 Clinica Veterinaria SanaSana Denia"
+  }
+}
